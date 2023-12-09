@@ -10,5 +10,6 @@
 # 示例
 命令行版
 <img width="549" alt="image" src="https://github.com/LceAn/RandomCharacterGeneration/assets/63484787/98290ca5-b682-4394-89ed-027735074861">
+
 GUI版
 <img width="401" alt="image" src="https://github.com/LceAn/RandomCharacterGeneration/assets/63484787/4f5121fa-0f18-41ce-b6d7-16772e409ce5">
