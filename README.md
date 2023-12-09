@@ -1,0 +1,2 @@
+# RandomCharacterGeneration
+基于Python编写的随机字符串生成，可以自定义字符位数、特殊字符、大小写。编写本意是用于生成强密码
